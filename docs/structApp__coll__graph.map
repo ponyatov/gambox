@@ -1,0 +1,5 @@
+<map id="App" name="App">
+<area shape="rect" id="node2" href="$structGUI.html" title="GUI" alt="" coords="17,97,63,124"/>
+<area shape="rect" id="node4" href="$structWindow.html" title="Window" alt="" coords="5,187,75,213"/>
+<area shape="rect" id="node3" href="$structObject.html" title="Object" alt="" coords="91,7,151,33"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="inc/main.hpp" name="inc/main.hpp">
+<area shape="rect" id="node2" href="$gambox_8hpp.html" title="inc/gambox.hpp" alt="" coords="629,80,744,107"/>
+<area shape="rect" id="node3" href="$Active_8cpp.html" title="src/Active.cpp" alt="" coords="5,155,112,181"/>
+<area shape="rect" id="node4" href="$Container_8cpp.html" title="src/Container.cpp" alt="" coords="136,155,261,181"/>
+<area shape="rect" id="node5" href="$gambox_8cpp.html" title="src/gambox.cpp" alt="" coords="285,155,400,181"/>
+<area shape="rect" id="node6" href="$gambox_8lex.html" title="src/gambox.lex" alt="" coords="425,155,535,181"/>
+<area shape="rect" id="node7" href="$gambox_8yacc.html" title="src/gambox.yacc" alt="" coords="560,155,683,181"/>
+<area shape="rect" id="node8" href="$GUI_8cpp.html" title="src/GUI.cpp" alt="" coords="707,155,800,181"/>
+<area shape="rect" id="node9" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="825,155,922,181"/>
+<area shape="rect" id="node10" href="$Object_8cpp.html" title="src/Object.cpp" alt="" coords="947,155,1053,181"/>
+<area shape="rect" id="node11" href="$Primitive_8cpp.html" title="src/Primitive.cpp" alt="" coords="1077,155,1197,181"/>
+<area shape="rect" id="node12" href="$skelex_8cpp.html" title="src/skelex.cpp" alt="" coords="1221,155,1328,181"/>
+</map>

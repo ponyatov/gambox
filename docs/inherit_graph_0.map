@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structObject.html" title="Object" alt="" coords="5,164,65,191"/>
+<area shape="rect" id="node2" href="$structActive.html" title="Active" alt="" coords="121,101,179,128"/>
+<area shape="rect" id="node6" href="$structGUI.html" title="GUI" alt="" coords="127,164,173,191"/>
+<area shape="rect" id="node9" href="$structPrimitive.html" title="Primitive" alt="" coords="113,240,187,267"/>
+<area shape="rect" id="node3" href="$structCmd.html" title="Cmd" alt="" coords="244,5,295,32"/>
+<area shape="rect" id="node4" href="$structOp.html" title="Op" alt="" coords="250,56,289,83"/>
+<area shape="rect" id="node5" href="$structSeq.html" title="Seq" alt="" coords="247,107,292,133"/>
+<area shape="rect" id="node7" href="$structApp.html" title="App" alt="" coords="247,157,292,184"/>
+<area shape="rect" id="node8" href="$structWindow.html" title="Window" alt="" coords="235,208,304,235"/>
+<area shape="rect" id="node10" href="$structSym.html" title="Sym" alt="" coords="245,259,294,285"/>
+</map>
